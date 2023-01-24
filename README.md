@@ -1,3 +1,3 @@
 # Platzi Scripts
 
-Dummy tests are in `jenkins-tests`1
+Dummy tests are in `jenkins-tests`12
